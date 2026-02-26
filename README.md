@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - 🎓 I'm currently a college student.
 - 💼 I'm completing an internship at **Kominfo**, contributing to web development projects.
-- 🌱 My primary focus right now involves **PHP**, **CodeIgniter 4**, and **Tailwind CSS**.
+- 🌱 My primary focus right now involves **PHP**, **CodeIgniter 4**, **Laravel** and **Tailwind CSS**.
 - 📱 I am also expanding my skill set and currently learning **Flutter**.
 - 🕹️ **Fun Fact:** When I'm not writing code or debugging, you can probably find me managing my farm in **Stardew Valley**!
 
