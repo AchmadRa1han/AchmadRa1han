@@ -6,7 +6,7 @@
 - 💼 I'm completing an internship at **Kominfo**, contributing to web development projects.
 - 🌱 My primary focus right now involves **PHP**, **CodeIgniter 4**, **Laravel** and **Tailwind CSS**.
 - 📱 I am also expanding my skill set and currently learning **Flutter**.
-- 🕹️ **Fun Fact:** When I'm not writing code or debugging, you can probably find me managing my farm in **Stardew Valley**!
+- 🕹️ **Fun Fact:** When I'm not writing code or debugging, you can probably find me either managing my farm in **Stardew Valley** or hopping into a match in **War Thunder!**
 
 ## 🚀 Featured Projects
 - **Petrichor**: A web application that integrates real-time weather data with the Spotify API to generate custom playlists based on the weather.
