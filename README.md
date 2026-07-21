@@ -3,14 +3,13 @@
 
 ## About Me
 - I'm currently a college student.
-- I'm completing an internship at **Kominfo**, contributing to web development projects.
 - My primary focus right now involves **PHP**, **CodeIgniter 4**, **Laravel** and **Tailwind CSS**.
 - I am also expanding my skill set and currently learning **Flutter**.
 - **Fun Fact:** When I'm not writing code or debugging, you can probably find me either managing my farm in **Stardew Valley** or hopping into a match in **War Thunder!**
 - Add me on Steam if u want to play : https://steamcommunity.com/profiles/76561199141690062/
 ## Featured Projects
 - **Petrichor**: A web application that integrates real-time weather data with the Spotify API to generate custom playlists based on the weather.
-- **SIBARUKI**: An ongoing project I am developing as part of my internship at Kominfo.
+- **SIBARUKI**: Aproject I am developing as part of my internship at Kominfo.
 
 ## Tech Stack & Tools
 <div align="left">
